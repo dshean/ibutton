@@ -1,0 +1,25 @@
+- No violations against the low temperature alarm.
+- High alarm started at    : 720
+-                          : Lasted 720 minutes
+- High alarm started at    : 2640
+-                          : Lasted 240 minutes
+- High alarm started at    : 3600
+-                          : Lasted 960 minutes
+- High alarm started at    : 6960
+-                          : Lasted 240 minutes
+- High alarm started at    : 12480
+-                          : Lasted 480 minutes
+- High alarm started at    : 13920
+-                          : Lasted 480 minutes
+- High alarm started at    : 15360
+-                          : Lasted 720 minutes
+- High alarm started at    : 16800
+-                          : Lasted 720 minutes
+- High alarm started at    : 18240
+-                          : Lasted 240 minutes
+- High alarm started at    : 19680
+-                          : Lasted 480 minutes
+- High alarm started at    : 24960
+-                          : Lasted 960 minutes
+- High alarm started at    : 31200
+-                          : Lasted 3360 minutes
